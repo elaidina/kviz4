@@ -25,7 +25,7 @@ const quizData = [
   a: "pravda",
   b: "lež",
   
-  correct: "b",
+  correct: "a",
 },{
   question: "Slon je nejznámější evropská ryba.",
   a: "pravda",
@@ -70,7 +70,7 @@ correct: "b",
   a: "pravda",
   b: "lež",
   
-  correct: "b",
+  correct: "a",
 },
 {
 question: "Komiksem jsou nazývány kreslené příběhy.",
